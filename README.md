@@ -1,2 +1,1 @@
-# mevpil
-Hı
+# iste
